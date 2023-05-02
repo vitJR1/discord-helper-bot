@@ -1,0 +1,4 @@
+/cfg
+/cfg/*
+config.json
+/venv
